@@ -4,11 +4,11 @@
 	background-color:yellow;
 }
 #red{
-	border:1px solid black ;
+	border:1px solid yellow ;
 	background-color:red;
 	
 }
 #green{
-	border:1px yellow ;
+	border:1px solid yellow;
 	background-color:green;
 }
